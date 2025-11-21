@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Anant! 👋
 
-<!--
-**Official-Anant/Official-Anant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Data Science Enthusiast** with a focus on building data-driven solutions using Python and machine learning.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Tableau, Power BI
+- **Machine Learning:** Scikit-learn, Linear Regression, Decision Trees, Logistic Regression
+- **Tools:** Jupyter Notebook, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+- 📊 Building machine learning models for predictive analytics
+- 📈 Creating interactive dashboards with Tableau and Power BI
+- 🧮 Mastering statistical analysis and data manipulation
+- 🌱 Learning advanced ML techniques and hyperparameter tuning
+
+## 📂 Featured Projects
+- **[LinerRegression](https://github.com/Official-Anant/LinerRegression)** - Multiple Linear Regression model for housing data analysis
+
+## 📫 How to reach me:
+- GitHub: [@Official-Anant](https://github.com/Official-Anant)
+
+## 📊 GitHub Stats
+![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Official-Anant&show_icons=true&theme=radical)
+
+---
+💡 *Always learning, always growing!*
